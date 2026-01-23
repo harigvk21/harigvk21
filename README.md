@@ -7,6 +7,7 @@
 - <b>SOC Automation</b>
 
 <h2>👨‍💻 Certifications </h2>
+
 - <b>CompTIA Security+</b>
 - <b>ISC2 CC</b>  
 - <b>HTB Certified Junior Cybersecurity Analyst</b>
