@@ -9,8 +9,8 @@
 
 <h2>👨‍💻 Certifications </h2>
 
-<img width="600" height="600" alt="isc2-candidate" src="https://github.com/user-attachments/assets/14105c53-babb-4d25-b601-c688c76d62d5" />
-<img width="300" height="300" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/897138a9-51d9-4108-89da-70ae5b108524" />
+<img width="50" height="50" alt="isc2-candidate" src="https://github.com/user-attachments/assets/14105c53-babb-4d25-b601-c688c76d62d5" />
+<img width="50" height="50" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/897138a9-51d9-4108-89da-70ae5b108524" />
 
 - <b>[CompTIA Security+ ce](https://github.com/user-attachments/files/25081736/CompTIA.Security%2B.ce.certificate.1.pdf)</b>
 - <b>[ISC2 CC](https://github.com/user-attachments/files/25081557/digitalcert.pdf)</b>
