@@ -1,4 +1,5 @@
-<h1>Hi, I'm Hari! <br/><a href="https://www.linkedin.com/">Cybersecurity Professional</a>
+<h1>Hi, I'm Hari! </h1>h1>
+ <b>Cybersecurity Professional</b>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -8,22 +9,12 @@
 
 <h2>👨‍💻 Certifications </h2>
 
-- <b>CompTIA Security+</b>
-- <b> [ISC2 CC](https://github.com/user-attachments/files/25081557/digitalcert.pdf)</b>
-- <b>HTB Certified Junior Cybersecurity Analyst</b>
- 
+<img width="600" height="600" alt="isc2-candidate" src="https://github.com/user-attachments/assets/14105c53-babb-4d25-b601-c688c76d62d5" />
+<img width="300" height="300" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/897138a9-51d9-4108-89da-70ae5b108524" />
 
-<h2>📺 My YouTube Video Projects </h2>
+- <b>[CompTIA Security+ ce](https://github.com/user-attachments/files/25081736/CompTIA.Security%2B.ce.certificate.1.pdf)</b>
+- <b>[ISC2 CC](https://github.com/user-attachments/files/25081557/digitalcert.pdf)</b>
 
-- [Building basic home lab]
-- [Active Directory setup]
-- [SOC Automation]
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
