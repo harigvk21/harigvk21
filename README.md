@@ -1,5 +1,6 @@
-<h1>Hi, I'm HariKeshav G V!, you can call me "Hari"</h1>
+<h1>Hi, I'm Hari!</h1>
 <b>I'm a Cybersecurity Professional</b>
+
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
