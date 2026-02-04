@@ -9,9 +9,10 @@
 <h2>👨‍💻 Certifications </h2>
 
 - <b>CompTIA Security+</b>
-- <b>ISC2 CC</b>  
+- <b>ISC2 CC [digitalcert.pdf](https://github.com/user-attachments/files/25081557/digitalcert.pdf)</b>
 - <b>HTB Certified Junior Cybersecurity Analyst</b>
-  
+ 
+
 <h2>📺 My YouTube Video Projects </h2>
 
 - [Building basic home lab]
