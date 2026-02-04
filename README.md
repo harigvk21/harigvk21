@@ -16,8 +16,8 @@
 <img width="100" height="100" alt="isc2-candidate" src="https://github.com/user-attachments/assets/14105c53-babb-4d25-b601-c688c76d62d5" />
 
 
-- <b>[CompTIA Security+ ce](https://github.com/user-attachments/files/25081736/CompTIA.Security%2B.ce.certificate.1.pdf)</b> [Credly badge](https://www.credly.com/badges/ef49a6f3-5a05-46e1-b120-64a9a1d44f66/public_url)
-- <b>[ISC2 CC](https://github.com/user-attachments/files/25081557/digitalcert.pdf)</b>
+- <b>[CompTIA Security+ ce](https://github.com/user-attachments/files/25081736/CompTIA.Security%2B.ce.certificate.1.pdf)</b> ([Credly badge](https://www.credly.com/badges/ef49a6f3-5a05-46e1-b120-64a9a1d44f66/public_url))
+- <b>[ISC2 CC](https://github.com/user-attachments/files/25081557/digitalcert.pdf)</b> ([Credly badge](https://www.credly.com/badges/07aca27e-afc2-4d90-81b8-70e44859850a/public_url))
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
