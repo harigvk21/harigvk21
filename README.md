@@ -9,7 +9,7 @@
 <h2>👨‍💻 Certifications </h2>
 
 - <b>CompTIA Security+</b>
-- <b>ISC2 CC [digitalcert.pdf](https://github.com/user-attachments/files/25081557/digitalcert.pdf)</b>
+- <b> [ISC2 CC](https://github.com/user-attachments/files/25081557/digitalcert.pdf)</b>
 - <b>HTB Certified Junior Cybersecurity Analyst</b>
  
 
