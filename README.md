@@ -3,7 +3,7 @@ Cybersecurity professional
 
 ## Objective
 I entered this field to understand the world of networking and security, so that I can contribute something back to the society that has been protecting us all this while.
-My journey so far has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey so far has led me to develop a passion for cybersecurity, and I am now eager to transition into this field from a marketing background, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Projects
 | Skill                                           | Associated Project         |
