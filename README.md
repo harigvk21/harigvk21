@@ -1,6 +1,10 @@
 <h1> VENKATA HARI KESHAV </h1>
 
-# Hello, I'm Hari! I'm a Cybersecurity Professional
+# Hello, I'm Hari! I'm a student of Networking and Cybersecurity!
+
+## Objective
+
+My journey so far in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I entered this field to understand the world of networking and security, so that I can contribute something back to the society that has been protecting us all this while.
 
 ## Projects
 | Skill                                           | Associated Project         |
