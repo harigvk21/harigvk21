@@ -6,8 +6,9 @@
 | Skill                                           | Associated Project         |
 |-----------------------------------------------  |----------------------------|
 | Building basic home lab                         | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Active Directory setup                          | SOC Automation Lab|
+| Building a Network using CISCO packet tracer    | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring using Wireshark      | <a href="https://google.com">Detection Lab</a>|
+| Building a SIEM                                 | SOC Automation Lab|
 
 <h2>👨‍💻 Certifications </h2>
 
