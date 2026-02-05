@@ -1,6 +1,4 @@
-<h1> VENKATA HARI KESHAV </h1>
-
-# Hello, I'm Hari! I'm a student of Networking and Cybersecurity!
+# Hello, I'm Hari!
 
 ## Objective
 
