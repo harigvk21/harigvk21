@@ -10,7 +10,7 @@ My journey so far has led me to develop a passion for cybersecurity, and I am no
 |-----------------------------------------------  |----------------------------|
 | Building basic home lab                         | <a href="https://harigvk21.github.io/My_website/project-homelab.html">Home Lab</a>|
 | Building a Network using CISCO packet tracer    | <a href="https://google.com">Detection Lab</a>|
-| Active Directory Lab                            | <a href="https://harigvk21.github.io/My_website/project-ad.html)">AD Lab</a>|
+| Active Directory Lab                            | <a href="https://harigvk21.github.io/My_website/project-ad.html">AD Lab</a>|
 | Building a SIEM                                 | SOC Automation Lab|
 
 <h2>👨‍💻 Certifications </h2>
