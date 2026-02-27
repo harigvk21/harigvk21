@@ -1,4 +1,4 @@
-## Hello, I'm <a href="https://harigvk21.github.io/My_website/">Hari</a>!
+## Hello, I'm <a href="https://harigvk21.github.io/My_website/">Harikeshav GV</a>!
 Cybersecurity professional
 
 ## Objective
@@ -19,4 +19,5 @@ My journey so far has led me to develop a passion for cybersecurity, and I am no
 
 <img src="https://img.shields.io/badge/-ISC2%20CC-0078D4?&style=for-the-badge&logo=ISC2&logoColor=white)](https://www.isc2.org/certifications/cc" /> ([Credly badge](https://www.credly.com/badges/07aca27e-afc2-4d90-81b8-70e44859850a/public_url))
 
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-black?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/)
 
