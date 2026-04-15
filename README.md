@@ -8,7 +8,7 @@ My journey so far has led me to develop a passion for cybersecurity, and I am no
 ## Projects
 | Skill                                           | Associated Project         |
 |-----------------------------------------------  |----------------------------|
-| Building basic home lab                         | Home Lab |
+| Building basic home lab                         | <a href="https://github.com/harigvk21/Home-SOC/"> Home Lab</a> |
 
 
 <h2>👨‍💻 Certifications </h2>
