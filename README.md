@@ -8,7 +8,7 @@ My journey so far has led me to develop a passion for cybersecurity, and I am no
 ## Projects
 | Skill                                           | Associated Project         |
 |-----------------------------------------------  |----------------------------|
-| Azure VM Honeypot for attack map creation                         | <a href="https://github.com/harigvk21/Home-SOC/"> Home Lab</a> |
+| Azure VM Honeypot for attack map creation                         | <a href="https://github.com/harigvk21/Home-SOC/"> Home SOC</a> |
 
 
 <h2>👨‍💻 Certifications </h2>
